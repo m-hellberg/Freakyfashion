@@ -91,7 +91,7 @@ header {
 }
 
 .favorites-icon:hover, .basket-icon:hover {
-    color: #474747;
+    color: #505050;
     animation: bounce 1s infinite;
 }
 
